@@ -14,6 +14,11 @@
  
  </div>
  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="arduino" height="30" width="40" scr="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  
+ </div>
+ 
  
  
 
