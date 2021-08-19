@@ -15,7 +15,7 @@
  </div>
  
  <div style="display: inline_block"><br>
- ![]arduino-original-wordmark.svg
+ ![](arduino-original-wordmark.svg)
   
  </div>
  
