@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### Hi, I'm Gabriel and I'm a telecommunications student who loves education, hardware and programming, principally in C++ and Python, I'm fascinated for the IOT and A.I areas too!
+### Hi, I'm Gabriel and I'm a telecommunications student who loves education, hardware and programming, principally in C++, Julia and Python, I'm fascinated for the IOT and A.I areas too!
 
 - 🤖 I love electronics and programming language for education & gaming;
 - 🐍 Knowledge in Python & C++;
