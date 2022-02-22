@@ -2,7 +2,7 @@
 
 ### Hi, I'm Gabriel and I'm a telecommunications student who loves education, hardware and programming, principally in C++, Julia, Python and Lua. I'm fascinated for the IOT and A.I areas too!
 
-- 🤖 I love electronics and programming language for education & gaming;
+- 🤖 I love electronics and programming language for educational purposes & gaming;
 - 🐍 Knowledge in Python, C++, Julia & Lua!;
 - 🤖🍑 Arduino & Raspeberry Pi;
 - 🎮🎲 Game development with Unreal Engine;
